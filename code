@@ -1,0 +1,7 @@
+<h1> the is my site </h1>
+<br>
+<pre>
+print `ifonfig`;
+
+print `free -m`;
+</pre>
